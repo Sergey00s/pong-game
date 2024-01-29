@@ -1,0 +1,6 @@
+{
+	"files.associations": {
+		"iosystem.h": "c",
+		"unistd.h": "c"
+	}
+}
